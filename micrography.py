@@ -6,9 +6,9 @@ import json
 
 #Set some variables. Feel free to play with these to your heart's content
 imgBgColor = (120,120,120)  #rgb
-sourceImage = "Pieter_Lastman_-_Jonah_and_the_Whale_-_Google_Art_Project.jpg"
+sourceImage = "Tree.jpg"
 destinationFile="output.png"
-sefariaRef="Jonah 1-4" # valid text references can be found here: https://github.com/blockspeiser/Sefaria-Project/wiki/Text-References
+sefariaRef="Vayikra Rabbah 25:3" # valid text references can be found here: https://github.com/blockspeiser/Sefaria-Project/wiki/Text-References
 
 
 #set some more variables. These probably shouldn't be mucked with too much.
